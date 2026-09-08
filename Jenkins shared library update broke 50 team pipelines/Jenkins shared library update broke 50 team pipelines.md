@@ -59,5 +59,8 @@ Use the **STAR methodology** to showcase enterprise architectural alignment:
 * **Action:** Detail the rapid rollback of the library's master branch. Implement semantic tag pinning (`@v2.5.0`), pull request validation loops for platform configurations, and deprecation lifecycle gates.
 * **Result:** Achieved 100% downstream pipeline isolation, reduced central blast radiuses to zero, and scaled platform engineering capability using standard software lifecycle practices.
 
+<img width="1139" height="642" alt="image" src="https://github.com/user-attachments/assets/4104ee2f-a922-4db8-ad54-ecc1d0fed9ac" />
+<img width="969" height="391" alt="image" src="https://github.com/user-attachments/assets/52d49d00-16f2-44e1-94df-87ec9fd6aaa5" />
+
 
 
