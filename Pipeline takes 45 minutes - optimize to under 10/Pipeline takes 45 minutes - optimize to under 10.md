@@ -211,3 +211,15 @@ When presenting this project to a technical interviewer, structure the discussio
 *   **Task:** Restructure the workflow configurations and container images to hit an engineering performance goal of under 10 minutes.
 *   **Action:** Refactored static runtime dependencies to dynamic lockfile caches, transformed linear pipelines into concurrent DAG nodes, horizontally split integration tests into 4 matrix environments, and optimized Docker cache layer ordering.
 *   **Result:** Accelerated the end-to-end integration lifecycle down to 9 minutes, driving down compute budgets while scaling delivery capabilities.
+
+
+
+
+
+
+<img width="897" height="482" alt="image" src="https://github.com/user-attachments/assets/ee791151-fe27-4c4c-9a3b-8e2b5a3a09d8" />
+<img width="951" height="712" alt="image" src="https://github.com/user-attachments/assets/f1c9561b-f59c-4563-8069-a7b4f18abbeb" />
+<img width="1077" height="328" alt="image" src="https://github.com/user-attachments/assets/44dce6d6-18f8-4a82-97aa-21e8237e4012" />
+
+
+
